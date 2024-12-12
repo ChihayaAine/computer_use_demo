@@ -12,7 +12,7 @@ python app.py
 如果您成功启动界面，您将在终端中看到两个网址：
 ```bash
 * Running on local URL:  http://127.0.0.1:7860
-* Running on public URL: https://xxxxxxxxxxxxxxxx.gradio.live (Do not share this link with others, or they will be able to control your computer.)
+* Running on public URL: https://xxxxxxxxxxxxxxxx.gradio.live 
 ```
 
 ### 3. 使用任何可以访问互联网的设备控制计算机
